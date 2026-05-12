@@ -1,5 +1,11 @@
 # Luna OpenClaw Agent
 
+![AI Agent](https://img.shields.io/badge/AI-Agent-blue)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-Enabled-red)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-AI-green)
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-orange)
+![Cloud](https://img.shields.io/badge/Cloud-GCP-yellow)
+
 Luna is a cloud-hosted autonomous AI agent system built using OpenClaw and OpenRouter.
 
 ## Features
