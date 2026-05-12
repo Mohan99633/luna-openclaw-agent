@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+.env.local
+
+# OpenClaw configs
+.openclaw/
+
+# SSH Keys
+*.pem
+*.key
+id_rsa
+id_ed25519
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.cache
