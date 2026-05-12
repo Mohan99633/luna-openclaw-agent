@@ -8,6 +8,12 @@
 
 Luna is a cloud-hosted autonomous AI agent system built using OpenClaw and OpenRouter.
 
+## Why I Built Luna
+
+I built Luna to explore autonomous AI systems, cloud-hosted AI infrastructure, lightweight orchestration architectures, and practical AI agent workflows using OpenClaw and OpenRouter.
+
+The project was designed to demonstrate how powerful AI agents can operate continuously on lightweight cloud infrastructure using external AI inference providers.
+
 ## Features
 
 - OpenClaw AI agent framework
