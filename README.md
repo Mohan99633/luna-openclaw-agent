@@ -14,6 +14,33 @@ I built Luna to explore autonomous AI systems, cloud-hosted AI infrastructure, l
 
 The project was designed to demonstrate how powerful AI agents can operate continuously on lightweight cloud infrastructure using external AI inference providers.
 
+## Architecture
+
+```text
+User
+  ↓
+Telegram / Terminal Interface
+  ↓
+Luna OpenClaw Agent
+  ↓
+OpenClaw Gateway
+  ↓
+OpenRouter API
+  ↓
+AI Models + Skills + Web Tools
+```
+
+## Deployment Workflow
+
+1. Deploy Ubuntu VM on Google Cloud
+2. Configure SSH access
+3. Install Docker and Node.js
+4. Install OpenClaw runtime
+5. Configure OpenRouter API
+6. Enable skills and hooks
+7. Launch OpenClaw gateway
+8. Run Luna continuously using persistent runtime services
+
 ## Features
 
 - OpenClaw AI agent framework
